@@ -18,3 +18,19 @@ log/
 # 环境
 venv/
 env/
+
+# ROS src 目录下的构建产物
+workspaces/src/build/
+workspaces/src/devel/
+workspaces/src/install/
+workspaces/src/log/
+workspaces/src/logs/
+workspaces/src/*.log
+
+# ROS src 目录下的构建产物
+workspaces/src/build/
+workspaces/src/devel/
+workspaces/src/install/
+workspaces/src/log/
+workspaces/src/logs/
+workspaces/src/*.log
