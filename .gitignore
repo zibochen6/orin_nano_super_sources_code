@@ -1,0 +1,20 @@
+# 构建产物
+__pycache__/
+*.pyc
+*.pyo
+build/
+install/
+log/
+*.egg-info/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 环境
+venv/
+env/
